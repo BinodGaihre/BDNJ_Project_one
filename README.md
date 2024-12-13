@@ -2,20 +2,30 @@
 ## Overview
 * Our project analyzes different metrics in a movies such as : budget, revenue, language used, the date of release, the average vote of the movie, and about the director as well.
 * We retrieved our data from the link : https://www.kaggle.com/datasets/karthiknamboori1/movie-datasets?resource=download.
-* The data on which out project works in within the folder data which is a csv file.
+* The data on which our project works in within the folder 'Data' which is a csv file.
 * All the findings in the form of excel files and the image files which are included in the analysis folder.
 * The project is sectioned in four parts as Binod,Noah,Deysi and Jayla.
 * Each part of is explained as follows
-    * Binod
-    Retrieval of the data for reading purpose
-	Cleaning of the data to access the genres of movies,language,vote count etc from the data
-	Graphs and files include are 
-		- excel files having number of movies their average vote count and the revenue generated with respect to genres
-		- bar graph showing the number of movies w.r.t genres
-        - Two of the scatter plots
-        - the bubble chat
-    * Noah 
-    Analysis to uncover  insights about the languages of movies.
+* Binod
+    - Retrieval of the data for reading purpose
+	- Cleaning of the data to access the genres of movies,language,vote count etc from the data
+	- Graphs and files include are 
+		1. Excel files having number of movies their average vote count and the revenue generated with respect to genres
+		2. Bar graph showing the number of movies w.r.t genres and top movie w.r.t genres
+            - Drama (1,875)
+            - Comedy (1,386)
+            - Thriller (1,073)
+            - Action( 1,029)
+            - Romance (731)
+        3. Two of the scatter plots showing budget vs revenue and ratings 
+        4. The bubble chart showing the rating w.r.t genres and here are top rated movies
+            - History (6.74)
+            - War (6.73)
+            - Drama (6.39)
+            - Animation (6.36)
+            - Foreign (6.35)
+* Noah 
+    - Analysis to uncover  insights about the languages of movies.
         1. Most Common Movie Languages in dataset:
             - English: 3,821 movies
             - French: 45 movies
@@ -34,16 +44,17 @@
             - French: Amélie , directed by Jean-Pierre Jeunet, Comedy, 7.8/10 (2001)
             - German: Downfall , directed by Olivier Hirschbiegel, Drama, 7.7/10 (2004)
             - Spanish: Pan’s Labyrinth , directed by Guillermo del Toro, Fantasy, 7.6/10 (2006)
-    * Deysi
-    *Jayla
-        The top five directors by revenue — 
+* Deysi
+    - Accesing the data and extracting the movies with respect to the year.
+    - The findings shows that most of the movies were released with in the year 2010 to 2016
+*Jayla
+    - The top five directors by revenue — 
             1. Steven Spielberg 
             2. Peter Jackson
             3. James Cameron
             4. Michael Bay
             5.Christopher Nolan
-        A key trend among these directors is their regular output, often releasing at least one film per year.
-        All five directors primarily work within genres like action, fantasy, and science fiction.
-hosj
+        - A key trend among these directors is their regular output, often releasing at least one film per year.
+        - All five directors primarily work within genres like action, fantasy, and science fiction.
 
 
