@@ -26,6 +26,7 @@
             - Foreign (6.35)
 * Noah 
     - Analysis to uncover  insights about the languages of movies.
+    - Two bar charts incuded showing foreign language movie and rating by language
         1. Most Common Movie Languages in dataset:
             - English: 3,821 movies
             - French: 45 movies
@@ -45,9 +46,17 @@
             - German: Downfall , directed by Olivier Hirschbiegel, Drama, 7.7/10 (2004)
             - Spanish: Pan’s Labyrinth , directed by Guillermo del Toro, Fantasy, 7.6/10 (2006)
 * Deysi
-    - Accesing the data and extracting the movies with respect to the year.
-    - The findings shows that most of the movies were released with in the year 2010 to 2016
-*Jayla
+    - Accesing the data and extracting the movies with respect to the month of release.
+    - One excel file, one bar graph and one line chart showing movies released per month.
+        1. Top 3 Months with most movies released 
+            - January (252)
+            - November (155)
+            - September (151)
+        2. Top 3 Months with leaset movie released
+            - April (104)
+            - February (107)
+            - March (110)
+* Jayla
     - The top five directors by revenue — 
             1. Steven Spielberg 
             2. Peter Jackson
