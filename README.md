@@ -63,7 +63,7 @@
         2. Peter Jackson
         3. James Cameron
         4. Michael Bay
-        5.Christopher Nolan
+        5. Christopher Nolan
     - A key trend among these directors is their regular output, often releasing at least one film per year.
     - All five directors primarily work within genres like action, fantasy, and science fiction.
 
