@@ -47,7 +47,7 @@
             - Spanish: Pan’s Labyrinth , directed by Guillermo del Toro, Fantasy, 7.6/10 (2006)
 * Deysi
     - Accesing the data and extracting the movies with respect to the month of release.
-    - One excel file, one bar graph and one line chart showing movies released per month.
+    - One excel file, one bar graph and one area chart showing movies released per month.
         1. Top 3 Months with most movies released 
             - January (252)
             - November (155)
