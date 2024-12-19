@@ -1,4 +1,5 @@
-# BDNJ_Project_one
+# BDNJ_Project_one (Insights of Movie Metrics)
+
 ## Overview
 * Our project analyzes different metrics in a movies such as : budget, revenue, language used, the date of release, the average vote of the movie, and about the director as well.
 * We retrieved our data from the link : https://www.kaggle.com/datasets/karthiknamboori1/movie-datasets?resource=download.
